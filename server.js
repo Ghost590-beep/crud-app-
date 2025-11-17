@@ -26,8 +26,8 @@ class Book {
   }
 }
 
-const book1 = new Book("BookA", "Author", 2005);
-const book2 = new Book("BookB", "Author", 2000);
+const book1 = new Book("BookA", "Author1", 2005);
+const book2 = new Book("BookB", "Author2", 2000);
 console.log(Book.compareYears(book1, book2));
 
 console.log(book1.getSummary());
