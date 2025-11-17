@@ -1,4 +1,9 @@
 # Simple tutorial for getting started with node and express
-# run npm intall express
-# Run npm instal prompt-sync 
+
+# Run npm intall express
+
+# Run npm instal prompt-sync
+
+# This is just a Tutorial that teaches me basics of gits
+
 ...
