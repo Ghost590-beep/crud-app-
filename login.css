@@ -1,0 +1,16 @@
+body {
+  background-color: orange;
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+}
+
+button {
+  width: 10%;
+  height: 40px;
+  position: relative;
+  font-size: large;
+  font-style: normal;
+  font-weight: bold;
+  left: 900px;
+}
